@@ -1,0 +1,318 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="/usr/local/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199944087" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (RBAC)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="$USER_HOME$/PycharmProjects/RBAC/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/RBAC/venv/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/RBAC/venv/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.16/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/RBAC/venv/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-660844646" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/RBAC" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (access_ctl)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="$USER_HOME$/anaconda/envs/access_ctl/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda/envs/access_ctl/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/anaconda/envs/access_ctl/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/anaconda/envs/access_ctl/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda/envs/access_ctl/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/622141690" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/untitled" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (access_control)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.4" />
+      <homePath value="$USER_HOME$/anaconda/envs/access_control/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda/envs/access_control/lib/python3.5" type="simple" />
+            <root url="file://$USER_HOME$/anaconda/envs/access_control/lib/python3.5/plat-darwin" type="simple" />
+            <root url="file://$USER_HOME$/anaconda/envs/access_control/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda/envs/access_control/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1669701768" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/access_control" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (hue)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/PycharmProjects/hue/build/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/about/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/beeswax/gen-py" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/beeswax/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/filebrowser/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/hbase/gen-py" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/hbase/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/help/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/hive/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/impala/gen-py" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/impala/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/jobbrowser/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/jobsub/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/metastore/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/oozie/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/pig/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/proxy/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/rdbms/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/search/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/security/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/spark/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/sqoop/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/useradmin/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/apps/zookeeper/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Babel-2.5.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/BabelDjango-0.2.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Django-1.11.20-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Mako-1.0.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/MarkupSafe-0.9.3-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/MySQL_python-1.2.5-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Paste-2.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/PyYAML-3.12-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Pygments-1.3.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/SQLAlchemy-1.2.0b3-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/amqp-2.4.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/asn1crypto-0.24.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/avro-1.8.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/backports.csv-1.0.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/billiard-3.5.0.5-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/boto-2.46.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/celery-4.2.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/certifi-2018.1.18-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/cffi-1.11.5-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/chardet-3.0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/colorama-0.3.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/configobj-5.0.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/cryptography-2.1.4-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/defusedxml-0.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_auth_ldap-1.3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_axes-2.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_celery_beat-1.4.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_debug_panel-0.8.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_debug_toolbar-1.9.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_extensions-1.8.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_nose-1.4.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_openid_auth-0.14-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_timezone_field-3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_webpack_loader-0.6.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/django_celery_results-1.0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/djangomako-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/djangosaml2-0.16.11-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/dnspython-1.15.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/docutils-0.14-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/elementtree-1.2.6.post20050316-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/enum_compat-0.0.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/et_xmlfile-1.0.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/eventlet-0.24.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/future-0.16.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/greenlet-0.4.15-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/gunicorn-19.9.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/guppy-0.1.10-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/httplib2-0.8-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/idna-2.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/importlib-1.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ipaddress-1.0.19-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/jdcal-1.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/josepy-1.1.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/kazoo-2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/kerberos-1.1.1-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/kombu-4.3.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/lockfile-0.8-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/lxml-3.3.6-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Markdown-2.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/monotonic-1.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/mozilla_django_oidc-1.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/navoptapi-0+untagged.4944.g4b9a5db.dirty-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ndg_httpsclient-0.4.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/nose-1.3.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/openpyxl-2.5.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ordereddict-1.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/parquet-1.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ply-3.9-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/py4j-0.9-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pyOpenSSL-17.5.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pyasn1-0.1.8-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pycparser-2.18-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pycrypto-2.6.1-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pycryptodomex-3.4.7-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pyformance-0.3.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pysaml2-4.4.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pysqlite-2.5.5-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/python_crontab-2.3.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/python_daemon-1.5.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/python_dateutil-2.4.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/python_ldap-2.3.13-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/oauth2-1.5.211-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/python_openid-2.2.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/python_pam-1.8.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pytidylib-0.3.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pytz-2015.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/repoze.who-2.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/requests-2.18.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/requests_kerberos-0.6.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/rsa-3.4.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/sasl-0.1.1-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/simple_salesforce-0.74.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/simplejson-3.15.0-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/sqlparse-0.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/tablib-0.10.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/thrift-0.9.1-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/thriftpy-0.3.9-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/urllib2_kerberos-0.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/urllib3-1.22-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/vine-1.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/wheel-0.31.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/zope.interface-4.5.0-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/core/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/aws/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/azure/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/hadoop/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/indexer/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/libanalyze/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/liboauth/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/liboozie/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/libopenid/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/librdbms/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/libsaml/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/libsentry/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/libsolr/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/libzookeeper/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/metadata/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/notebook/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/dashboard/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/desktop/libs/kafka/src" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ipython-5.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/traitlets-4.3.2-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/simplegeneric-0.8.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/prompt_toolkit-1.0.16-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pickleshare-0.7.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pexpect-4.7.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/pathlib2-2.3.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/decorator-4.4.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/backports.shutil_get_terminal_size-1.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/appnope-0.1.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ipython_genutils-0.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/wcwidth-0.1.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ptyprocess-0.6.0-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/scandir-1.10.0-py2.7-macosx-10.14-intel.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/ipdb-0.10.3-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/coverage-4.4.2-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/nosetty-0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/Werkzeug-0.14.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/windmill-1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/astroid-1.5.3-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/wrapt-1.11.1-py2.7-macosx-10.14-intel.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/lazy_object_proxy-1.4.1-py2.7-macosx-10.14-intel.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/backports.functools_lru_cache-1.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/isort-4.2.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/hue/build/env/lib/python2.7/site-packages/six-1.10.0-py2.7.egg" type="simple" />
+            <root url="file:///Library/Python/2.7/site-packages" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1897804711" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/hue" />
+    </jdk>
+  </component>
+</application>
